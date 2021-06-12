@@ -125,6 +125,8 @@ Outlier detection techniques                          ACM SIGKDD                
 Anomaly Detection: A Tutorial                         ICDM                                          2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
 Anomaly Detection in Networks                         KDD                                           2017   [#Mendiratta2017Anomaly]_     `[Page] <https://veena-mendiratta.blog/tutorial-anomaly-detection-in-networks/>`_
 Which Anomaly Detector should I use?                  ICDM                                          2018   [#Ting2018Which]_             `[PDF] <https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf>`_
+Train, Evaluate, Repeat: Building a Credit Card Fraud Detection System - Leela Senthil Nathan      2018                                  _`[Video]                         
+https://www.youtube.com/watch?v=rHSpab1Wi9k
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 ----
