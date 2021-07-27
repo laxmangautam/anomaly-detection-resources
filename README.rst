@@ -44,8 +44,6 @@ Please feel free to suggest other key resources by opening an issue report,
 submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu).
 Enjoy reading!
 
-BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
-`[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful.
 
 ----
 
