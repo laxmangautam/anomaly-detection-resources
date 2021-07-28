@@ -131,7 +131,7 @@ https://www.youtube.com/watch?v=rHSpab1Wi9k
 
 2. Courses/Seminars/Videos
 --------------------------
-**Youtbue Video playlist**\:
+**Youtbue Video playlist Andrew Ng | Stanford University **\:
 `[See Video] <https://www.youtube.com/watch?v=086OcT-5DYI&list=TLPQMjgwNzIwMjHjPaqQcUojfA&index=1>`_
 
 **Coursera Introduction to Anomaly Detection (by IBM)**\ :
