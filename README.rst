@@ -548,7 +548,7 @@ can be found `data-mining-conferences <https://github.com/yzhao062/data-mining-c
 
 `Knowledge and Information Systems (KAIS) <https://link.springer.com/journal/10115>`_
 
-`Facts + Statistics: Identity theft and cybercrime<https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime>`_
+`Facts + Statistics: Identity theft and cybercrime <https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime>`_
 
 `Anomaly Detection in Finance <https://sdk.finance/anomaly-detection-in-finance/#:~:text=Crime%20Complaint%20Center-,What%20is%20anomaly%20detection%3F,can%20be%20considered%20potentially%20fraudulent.>`_
 
