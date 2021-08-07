@@ -244,7 +244,7 @@ On the evaluation of unsupervised outlier detection: measures, datasets, and an 
 A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data        PLOS ONE                      2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
 A comparative evaluation of outlier detection algorithms: Experiments and analyses                 Pattern Recognition           2018   [#Domingues2018A]_            `[PDF] <https://www.researchgate.net/publication/320025854_A_comparative_evaluation_of_outlier_detection_algorithms_Experiments_and_analyses>`_
 Solving the false positives problem in fraud prediction
-using automated feature engineering                                                                ECML PKDD 2018                2018   [#Pang2018Deep]_              `[PDF] <http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/567.pdf>`_
+using automated feature engineering                                                                ECML PKDD 2018                2018   #Pang2018AutomatedFeatureEngineering_              `[PDF] <http://www.ecmlpkdd2018.org/wp-content/uploads/2018/09/567.pdf>`_
 Research Issues in Outlier Detection                                                               Book Chapter                  2019   [#Suri2019Research]_          `[HTML] <https://link.springer.com/chapter/10.1007/978-3-030-05127-3_3>`_
 Quantitative comparison of unsupervised anomaly detection algorithms for intrusion detection       SAC                           2019   [#Falcao2019Quantitative]_    `[HTML] <https://dl.acm.org/citation.cfm?id=3297314>`_
 Progress in Outlier Detection Techniques: A Survey                                                 IEEE Access                   2019   [#Wang2019Progress]_          `[PDF] <https://ieeexplore.ieee.org/iel7/6287639/8600701/08786096.pdf>`_                
@@ -740,5 +740,7 @@ References
 .. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
+
+.. [#Pang2018AutomatedFeatureEngineering] Roy WedgeJames Max KanterEmail authorKalyan VeeramachaneniSantiago Moral RubioSergio Iglesias Perez. DOI:10.1007/978-3-030-10997-4_23.
 
 
